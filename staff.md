@@ -2,16 +2,12 @@
 
 *Iacopo Borsi*
 
-Laureato in matematica e specializzato in matematica industriale e scienze computazionali (2002).<br> 
-Attualmente, è borsista di ricerca presso il Dip. di Matematica dell'Univarsità di Firenze.<br>
+Laureato in matematica e specializzato in matematica industriale e scienze computazionali (2002).
+Durante il progetto SID&GRID era borsista di ricerca presso il Dip. di Matematica dell'Univarsità di Firenze.
 I suoi interessi di ricerca sono principalmente rivolti allo sviluppo di modelli e simulazioni
-per problemi ambientali e industriali, con particolare riferimento a: modelli di flusso e trasporto in acque sotterranee (con particolare interesse per la zona insatura)
-; processi di bio-remediation; modelli per filtri industriali di acque reflue; modellistica di bacini geotermici. <br>
-E' autore di una monografia e di circa 20 articoli pubblicati su riviste scientifiche internazionali.
-
-All'interno del progetto SID&GRID si occupa della definizione di modelli per la descrizione dell'accoppiamento
-fra acque superficiali e sotterranee; revisione e modifica del codice MODFLOW; scrittura di script originali per integrare i modelli
-nella piattaforma GIS gvSIG.
+per problemi ambientali e industriali, con particolare riferimento a: modelli di flusso e trasporto in acque sotterranee (con particolare interesse per la zona insatura); processi di bio-remediation; modelli per filtri industriali di acque reflue; modellistica di bacini geotermici. E' autore di una monografia e di circa 25 articoli pubblicati su riviste scientifiche internazionali.
+All'interno del progetto SID&GRID si è occupato della definizione di modelli per la descrizione dell'accoppiamento
+fra acque superficiali e sotterranee; revisione e modifica del codice MODFLOW; scrittura di script originali per integrare i modelli nella piattaforma GIS gvSIG.
 
 
 *Rudy Rossetto*
