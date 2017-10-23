@@ -11,9 +11,7 @@ A questa pagina è possibile scaricare la documentazione:
     un Tutorial;
     le FAQ (Domande Frequenti).
 
-Si invitano gli utilizzatori a iscriversi al gruppo LinkedIn SID&GRID - Gruppo Utenti.
 
- 
 
 INDICE:
 
